@@ -1,1 +1,1 @@
-# Pattern_in_C-
+# Pattern_in_C++
