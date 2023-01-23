@@ -1,1 +1,3 @@
-# Pattern_in_C++
+# Pattern in C++
+
+This repository contains the source code of various pattern in C++
